@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
-import 'package:latlong/latlong.dart';
+import 'package:latlong2/latlong.dart';
 
 void main() {
   runApp(MyApp());
@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
           plugins: [
             MarkerClusterPlugin(),
           ],
-          onTap: (_) => _popupController.hidePopup(),
+          //    onTap: (_) => _popupController.hidePopup(),
         ),
         layers: [
           TileLayerOptions(
@@ -108,7 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 color: Colors.black12,
                 borderStrokeWidth: 3),
             popupOptions: PopupOptions(
-                popupSnap: PopupSnap.top,
+                //popupSnap: PopupSnap.top,
                 popupController: _popupController,
                 popupBuilder: (_, marker) => Container(
                       color: Colors.amberAccent,

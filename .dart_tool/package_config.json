@@ -8,12 +8,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "ansicolor",
-      "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/ansicolor-1.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
       "name": "async",
       "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.6.1",
       "packageUri": "lib/",
@@ -48,12 +42,6 @@
       "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "console_log_handler",
-      "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/console_log_handler-1.1.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
     },
     {
       "name": "cupertino_icons",
@@ -116,12 +104,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "latlong",
-      "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/latlong-0.6.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
       "name": "latlong2",
       "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/latlong2-0.8.1",
       "packageUri": "lib/",
@@ -132,12 +114,6 @@
       "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/lists-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "logging",
-      "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/logging-0.11.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
     },
     {
       "name": "matcher",
@@ -254,12 +230,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "validate",
-      "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/validate-1.7.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
       "name": "vector_math",
       "rootUri": "file:///C:/Users/virgilio/Downloads/flutter_windows_2.2.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0",
       "packageUri": "lib/",
@@ -278,7 +248,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-09-29T18:34:26.296985Z",
+  "generated": "2021-09-29T18:46:57.486970Z",
   "generator": "pub",
   "generatorVersion": "2.13.1"
 }
